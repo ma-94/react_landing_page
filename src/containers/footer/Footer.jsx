@@ -21,8 +21,8 @@ const Footer = () => {
 
                 <div className='gpt3__footer-links__logo'>
                     {/* <img src={gpt3Logo} alt='gpt3 logo' /> */}
-                    <p>Crechterwoord,</p>
-                    <p>@2021 GPT-3. All rights reserved.</p>
+                    <p>Muhammad Ali</p>
+                    <p>@2022 DALL-E. All rights reserved.</p>
                 </div>
 
                 <FooterLinks
