@@ -4,7 +4,7 @@
 
 
 <img
-  src="https://github.com/ma-94/react_landing_page/dalle.png"
+  src="https://github.com/ma-94/react_landing_page/blob/main/dalle.png"
   alt="Alt text"
   title="Data Visualisation"
   style="display: inline-block; margin: 0 auto; max-width: 600px">
