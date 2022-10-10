@@ -24,7 +24,7 @@ Create-react-app
 
 ---
 Hope you like it! 
-*Currently looking for an entry level frontend developer role in london or remote* 🤓
+*Currently looking for an entry level frontend developer role in london or remote* 
 
 
 
