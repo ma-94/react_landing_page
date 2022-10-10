@@ -1,5 +1,15 @@
 # Modern IU/UX DALL-E landing page
+
 ---
+
+
+<img
+  src="https://github.com/ma-94/react_landing_page/dalle.png"
+  alt="Alt text"
+  title="Data Visualisation"
+  style="display: inline-block; margin: 0 auto; max-width: 600px">
+  
+  ---
 
 ## About 
 
